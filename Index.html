@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Advanced To-Do App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <!-- LEFT PANEL -->
+  <div class="panel left">
+    <h2>Add Activity</h2>
+
+    <input type="text" id="taskInput" placeholder="What needs to be done?">
+    <button id="addBtn">Add Task</button>
+
+    <h3>Theme</h3>
+    <select id="themeSelect">
+      <option value="dark">Dark</option>
+      <option value="neon">Neon</option>
+      <option value="calm">Calm</option>
+    </select>
+  </div>
+
+  <!-- RIGHT PANEL -->
+  <div class="panel right">
+    <h2>Today</h2>
+
+    <div class="progress">
+      <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <div id="tasks"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
