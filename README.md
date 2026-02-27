@@ -15,9 +15,20 @@ This project is designed to be both educational and entertaining, combining Java
 
 ### 1. Fully Responsive  
 Works smoothly on desktop and mobile.
+- USers can add task to the to do list
+- Users can edit added task
+- Users can delete task
 
 
-### 2. 📷 Screenshots
+### 2. Themes
+It has three distinctive features that users can toggle between
+
+
+### 3. 📷 Screenshots
+<img width="1879" height="569" alt="image" src="https://github.com/user-attachments/assets/6f883a1d-1e75-441b-908a-b6c8dc51d60d" />
+
+
+<img width="1912" height="573" alt="image" src="https://github.com/user-attachments/assets/18fe6025-c4ac-47e7-a2f5-3c8a3e48f616" />
 
 ---
 
